@@ -1,5 +1,5 @@
 # BlazeDemo Flight Booking Automation Framework
-
+Capstone Project
 ## Project Overview
 
 This project is an automated testing framework developed for the BlazeDemo flight booking website using Selenium WebDriver, Java, TestNG, Maven, and Extent Reports. The framework automates the complete flight booking workflow, validates successful booking, and generates detailed execution reports.
